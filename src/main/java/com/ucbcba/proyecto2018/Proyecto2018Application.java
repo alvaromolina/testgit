@@ -2,7 +2,7 @@ package com.ucbcba.proyecto2018;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Pruebas ss
+//Pruebas ssgit push dds
 @SpringBootApplication
 public class Proyecto2018Application {
 
